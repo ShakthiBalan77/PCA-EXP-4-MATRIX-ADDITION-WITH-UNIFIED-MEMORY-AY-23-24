@@ -40,8 +40,8 @@ Allocate Host Memory
 
 ## PROGRAM:
 ```
-Developed by : M PRIYAN
-Reg No : 212225040320
+Developed by : Shakthi Balan V
+Reg No : 212225230259
 ```
 ```
 !pip install git+https://github.com/andreinechaev/nvcc4jupyter.git
